@@ -2,12 +2,12 @@
 
 This repository contains the code and results for my master’s thesis:
 
-**Title:** Sentence Embeddings in Various Supervision Settings  
-**Author:** Johanna Reiml  
-**University:** Ludwig-Maximilians-Universität München
-**Supervised by:** Prof. Dr. Thomas Seidl  
-**Advised by:** Dr. Michael Fromm  
-**Submission Date:** February 13, 2023
+- **Title:** Sentence Embeddings in Various Supervision Settings  
+- **Author:** Johanna Reiml  
+- **University:** Ludwig-Maximilians-Universität München
+- **Supervised by:** Prof. Dr. Thomas Seidl  
+- **Advised by:** Dr. Michael Fromm  
+- **Submission Date:** February 13, 2023
 
 ## Abstract
 
