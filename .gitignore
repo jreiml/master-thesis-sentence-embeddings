@@ -1,0 +1,5 @@
+models/
+venv/
+.idea/
+datasets/download/
+**/__pycache__

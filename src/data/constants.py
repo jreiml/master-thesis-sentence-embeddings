@@ -1,0 +1,6 @@
+PROCESSED_LABEL_COL = "processed_label"
+PROCESSED_LABEL_A_COL = "processed_label_a"
+PROCESSED_LABEL_B_COL = "processed_label_b"
+TEXT_COL = "text"
+TEXT_A_COL = "text_a"
+TEXT_B_COL = "text_b"
