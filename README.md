@@ -13,7 +13,7 @@ This repository contains the code and results for my master’s thesis:
 
 This thesis explores techniques for enhancing sentence embeddings, which are vectors that capture the meaning of sentences. 
 The focus is on improving embeddings under different supervision settings. The key contributions are:
-- 
+
 - **Cross-Bi-Encoder (CBE):** Enhances Augmented SBERT for better sentence-pair task performance.
 - **Noise Matching (NM):** A contrastive training objective to create deletion noise-invariant embeddings.
 
